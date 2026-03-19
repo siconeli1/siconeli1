@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas
 
-<!--
-**siconeli1/siconeli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação - IFSP  
+💻 Desenvolvedor focado em NextJS, Java, Web e sistemas desktop  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Java (JavaFX, Maven)
+- PHP
+- HTML, CSS
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- 🧑‍🎓 StudentHub → Sistema de gerenciamento de alunos
+- 🌐 DevWeb → Projetos web acadêmicos
+- 💈 Conceito Barbearia → Projeto de agendamento 1 barbeiro
+- 💈 Império Ferreira → Projeto de agendamento múltiplos barbeiros
+
+## 📫 Contato
+- LinkedIn: [(seu link)](https://www.linkedin.com/in/lucas-siconeli-b532262b6/)
