@@ -12,8 +12,6 @@
 ## 📌 Projetos em destaque
 - 🧑‍🎓 StudentHub → Sistema de gerenciamento de alunos
 - 🌐 DevWeb → Projetos web acadêmicos
-- 💈 Conceito Barbearia → Projeto de agendamento 1 barbeiro
-- 💈 Império Ferreira → Projeto de agendamento múltiplos barbeiros
 
 ## 📫 Contato
 - LinkedIn: [(seu link)](https://www.linkedin.com/in/lucas-siconeli-b532262b6/)
