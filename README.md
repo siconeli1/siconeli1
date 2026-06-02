@@ -12,6 +12,7 @@
 ## 📌 Projetos em destaque
 - 🧑‍🎓 StudentHub → Sistema de gerenciamento de alunos
 - 🌐 DevWeb → Projetos web acadêmicos
+- 🤠 RodeioStore → Loja completa de Ecommerce com sistema de pagamento integrado
 
 ## 📫 Contato
 - LinkedIn: [(seu link)](https://www.linkedin.com/in/lucas-siconeli-b532262b6/)
