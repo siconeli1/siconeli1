@@ -15,4 +15,4 @@
 - 🤠 RodeioStore → Loja completa de Ecommerce com sistema de pagamento integrado
 
 ## 📫 Contato
-- LinkedIn: [(seu link)](https://www.linkedin.com/in/lucas-siconeli-b532262b6/)
+- LinkedIn: [(cliqueAqui)](https://www.linkedin.com/in/lucas-siconeli-b532262b6/)
