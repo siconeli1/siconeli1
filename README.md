@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Lucas%20Siconeli&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%26%20Full-Stack%20Web&descAlignY=58&animation=fadeIn)
+![Lucas Siconeli - Software Developer](./assets/profile-header.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Siconeli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-siconeli-b532262b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40lucassiconeli-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassiconeli/)
